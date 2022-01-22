@@ -362,16 +362,13 @@ nav ul li a{
 
 /* Skills-start */
 
-.skill-title{
-    font-size: 45px;
-    text-transform: capitalize;
-    margin-bottom: 20px;
-    font-weight: lighter;
-}
+
 
 .skill-title {
     font: 700 5em/1 Helvetica Neue, Helvetica, Arial, sans-serif;
-    font-size: 65px;
+    font-size: 45px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
     text-transform: uppercase;
     letter-spacing: 2;
     /* display: block; */
