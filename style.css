@@ -363,7 +363,6 @@ nav ul li a{
 /* Skills-start */
 
 
-
 .skill-title {
     font: 700 5em/1 Helvetica Neue, Helvetica, Arial, sans-serif;
     font-size: 45px;
@@ -473,6 +472,8 @@ footer{
 .social a:hover{
     transform: scale(1.4);
     transition: .2s;
+    background: transparent;
+    border: 2px solid #f90040;
 }
 
 .end{
